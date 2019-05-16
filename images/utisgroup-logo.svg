@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="61.3" height="53.6" xml:space="preserve">
+<desc>Created with Fabric.js 1.6.0-rc.1</desc>
+<defs></defs>
+<g style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: none; fill-rule: nonzero; opacity: 1;" transform="translate(10 10) scale(0.7 0.6)" >
+  <path d="M 58 41 H 26 c -6.627 0 -12 -5.373 -12 -12 v 0 c 0 -6.627 5.373 -12 12 -12 h 32 V 3 H 26 C 11.641 3 0 14.641 0 29 v 0 c 0 14.359 11.641 26 26 26 h 32 V 41 z" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: #00c4ff; fill-rule: nonzero; opacity: 1;" transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
+  <rect x="41" y="3" rx="0" ry="0" width="4" height="14" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: #EBBA16; fill-rule: nonzero; opacity: 1;" transform=" matrix(1 0 0 1 0 0) "/>
+  <rect x="41" y="41" rx="0" ry="0" width="4" height="14" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: #EBBA16; fill-rule: nonzero; opacity: 1;" transform=" matrix(1 0 0 1 0 0) "/>
+  <rect x="45.03" y="41" rx="0" ry="0" width="12.97" height="14" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: #a124e0; fill-rule: nonzero; opacity: 1;" transform=" matrix(1 0 0 1 0 0) "/>
+  <rect x="45.03" y="3" rx="0" ry="0" width="12.97" height="14" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: #a124e0; fill-rule: nonzero; opacity: 1;" transform=" matrix(1 0 0 1 0 0) "/>
+</g>
+</svg>
